@@ -7,7 +7,10 @@ body {
     background-image: url("images/1000_F_1294257086_WpBxtmnmM1zCzZnZGbDZINjE76ED2trE.jpg");
     background-size: cover;
 }
-
+.body1{
+    background-image: url("images/240_F_972121714_Y6FzFrGlw4hX8NEcKpwzV474ac31MwNx.jpg");
+    background-size: cover;
+}
 header {
     background-color: black;
 }
